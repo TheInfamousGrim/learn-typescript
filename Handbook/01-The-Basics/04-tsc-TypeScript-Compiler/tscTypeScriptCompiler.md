@@ -6,6 +6,7 @@
 2. [Description](#description)
    - [Installation](#installation)
    - [TS Config](#ts-config)
+   - [First TypeScript Program](#first-typescript-program)
 
 ## Description
 
@@ -59,7 +60,7 @@ Use the `NodeNext` option to handle ES Modules with interop between CommonJS mod
 }
 ```
 
-### First TypeScript File
+### First TypeScript Program
 
 Now let's create our first TypeScript program: `hello.ts`:
 
@@ -81,3 +82,25 @@ and then simply run the program by navigating to the `dist` directory and runnin
 ```bash
 node hello.js
 ```
+
+The compiler tries to emit clean readable code that looks like something a person would write. While that's not always so easy, TypeScript indents consistently, is mindful of when our code spans across different lines of code, and tries to keep comments around.
+
+Let's introduce types:
+
+```TypeScript
+// This is an industrial-grade general-purpose greeter function:
+function greet(person: string, date: string) {
+  console.log(`Hello ${person}, today is ${date}!`);
+}
+
+greet("Brendan", "08/03/2023");
+greet("Brendan");
+```
+
+Now if we compile again we'd get an error on the command line!
+
+```bash
+Expected 2 arguments, but got 1.
+```
+
+TypeScript is telling us we forgot to pass an argument to the `greet` function, and rightfully so. So far we’ve only written standard JavaScript, and yet type-checking was still able to find problems with our code. Thanks TypeScript!

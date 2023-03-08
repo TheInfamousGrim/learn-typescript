@@ -5,6 +5,7 @@
 1. [Return to Main Contents](../../README.md)
 2. [Overview](#overview)
 3. [Static type-checking](./Static-Type-Checking/StaticTypeChecking.md)
+4. [Non-exception Failures](./02-Non-exception-Failures/Non-exceptionFailures.md)
 
 ## Overview
 

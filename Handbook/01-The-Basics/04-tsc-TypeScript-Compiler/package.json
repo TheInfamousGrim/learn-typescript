@@ -1,0 +1,16 @@
+{
+  "name": "04-tsc-typescript-compiler",
+  "version": "1.0.0",
+  "description": "Introduction to how to setup TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "George Fincher",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "typescript": "^4.9.5"
+  }
+}

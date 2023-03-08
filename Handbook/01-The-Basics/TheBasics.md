@@ -7,6 +7,7 @@
 3. [Static type-checking](./01-Static-Type-Checking/StaticTypeChecking.md)
 4. [Non-exception Failures](./02-Non-exception-Failures/Non-exceptionFailures.md)
 5. [Types for Tooling](./03-Types-for-Tooling/TypesForTooling.md)
+6. [tsc, the TypeScript Compiler](./04-tsc-TypeScript-Compiler/tscTypeScriptCompiler.md)
 
 ## Overview
 

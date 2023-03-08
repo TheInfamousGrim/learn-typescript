@@ -8,6 +8,7 @@
 4. [Non-exception Failures](./02-Non-exception-Failures/Non-exceptionFailures.md)
 5. [Types for Tooling](./03-Types-for-Tooling/TypesForTooling.md)
 6. [tsc, the TypeScript Compiler](./04-tsc-TypeScript-Compiler/tscTypeScriptCompiler.md)
+7. [Emitting with Errors](./05-Emitting-with-Errors/EmittingWithErrors.md)
 
 ## Overview
 

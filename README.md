@@ -9,6 +9,7 @@ A repository for all the notes and practice exercises on how typescript works.
    - [Defining Types](#defining-types)
    - [Composing Types](#composing-types)
    - [Structural Type System](#structural-type-system)
+2. [The Basics](./Handbook/01-The-Basics/TheBasics.md)
 
 ## Overview for JavaScript Programmers
 

@@ -7,6 +7,7 @@
 3. [Array and `any`](./02-Arrays-and-Any/ArraysAny.md)
 4. [Type Annotations on Variables](./03-Type-Annotations-on-Variables/TypeAnnotationsVariables.md)
 5. [Functions](./04-Functions/Functions.md)
+6. [Object Types](./05-Object-Types/ObjectTypes.md)
 
 ## Overview
 

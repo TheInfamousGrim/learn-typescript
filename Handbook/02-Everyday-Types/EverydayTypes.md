@@ -3,6 +3,7 @@
 # Contents
 
 1. [Return to Main Contents](../../README.md)
+2. [Primitives](./01-Primitives/Primitives.md)
 
 ## Overview
 

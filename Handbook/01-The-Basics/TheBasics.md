@@ -11,6 +11,7 @@
 7. [Emitting with Errors](./05-Emitting-with-Errors/EmittingWithErrors.md)
 8. [Erased Types](./07-Erased-Types/ErasedTypes.md)
 9. [Downleveling](./08-Donwleveling/Downleveling.md)
+10. [Strictness](./09-Strictness/Strictness.md)
 
 ## Overview
 

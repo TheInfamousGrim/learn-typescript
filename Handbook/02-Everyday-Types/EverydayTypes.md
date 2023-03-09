@@ -10,6 +10,7 @@
 6. [Object Types](./05-Object-Types/ObjectTypes.md)
 7. [Union Types](./06-Union-Types/UnionTypes.md)
 8. [Type Aliases](./07-Type-Aliases/TypeAliases.md)
+9. [Interfaces](./08-Interfaces/Interfaces.md)
 
 ## Overview
 

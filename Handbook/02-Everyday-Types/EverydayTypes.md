@@ -8,6 +8,7 @@
 4. [Type Annotations on Variables](./03-Type-Annotations-on-Variables/TypeAnnotationsVariables.md)
 5. [Functions](./04-Functions/Functions.md)
 6. [Object Types](./05-Object-Types/ObjectTypes.md)
+7. [Union Types](./06-Union-Types/UnionTypes.md)
 
 ## Overview
 

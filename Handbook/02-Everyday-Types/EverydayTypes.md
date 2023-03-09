@@ -5,6 +5,7 @@
 1. [Return to Main Contents](../../README.md)
 2. [Primitives](./01-Primitives/Primitives.md)
 3. [Array and `any`](./02-Arrays-and-Any/ArraysAny.md)
+4. [Type Annotations on Variables](./03-Type-Annotations-on-Variables/TypeAnnotationsVariables.md)
 
 ## Overview
 
